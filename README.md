@@ -1,3 +1,3 @@
 # Angular-buzzfeed
 Project of Buzz Feed writen in angular
-(Preview Web)[https://project-buzzfeed.netlify.app]
+[Preview Web](https://project-buzzfeed.netlify.app)
